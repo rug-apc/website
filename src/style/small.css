@@ -1,0 +1,199 @@
+:root {
+    --transition: all 0.20s linear;
+    --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    --white: #FFFFFF;
+    --black: #090C08;
+    --red: #CC0000;
+    --font-family: 'Open Sans Semi-Bold', sans-serif;
+}
+
+#root {
+    width: 100vw;
+    height: 100vh;
+}
+
+*,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-family);
+    background: var(--white);
+    overflow-x: hidden;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*  end global classes */
+
+
+/* start Navbar.js style*/
+
+nav {
+    background: var(--red);
+    box-shadow: var(--light-shadow);
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.nav-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0rem;
+}
+
+.nav-toggle {
+    font-size: 1.5rem;
+    color: var(--blue);
+    background: transparent;
+    border-color: transparent;
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.title {
+    font-size: 28px;
+    margin-left: 10px;
+    font-weight: 600;
+    color: var(--white);
+    font-family: var(--font-family);
+}
+
+.nav-toggle:hover {
+    color: var(--red);
+    transform: rotate(90deg);
+}
+
+.logo {
+    height: 70px;
+}
+
+
+.links a {
+    color: var(--white);
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: capitalize;
+    margin-left: 15px;
+    display: block;
+    transition: var(--transition);
+}
+
+.links a:hover {
+    background: var(--clr-primary-8);
+    color: var(--blue);
+}
+
+.links-container {
+    height: 0;
+    overflow: hidden;
+    transition: var(--transition);
+}
+
+.flex {
+    display: flex;
+}
+
+.forty {
+    width: 40%;
+}
+
+.sixty {
+    width: 60%;
+}
+
+
+
+
+
+.box {
+    width: calc(100% - 30px);
+    border-width: 4px;
+    border-radius: 10px;
+    border-color: var(--black);
+    border-style: solid;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 10px #888888;
+}
+
+.title-info {
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.description-info {
+    font-size: 18px;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.button {
+    cursor: pointer;
+    width: 120px;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: var(--red);
+}
+
+.button a {
+    color: var(--white);
+}
+
+.button:hover {
+    transition: 0.5s;
+    background-color: var(--black);
+}
+
+.block {
+    display: block;
+    text-align: left;
+}
+
+.red {
+    color:var(--red);
+}
+
+.list {
+    list-style-type: circle;
+    margin-left:20px;
+}
+
+.seventy {
+    width:65%;
+}
+
+.thirty {
+    width:30%;
+}
+
+.full {
+    width:100%;
+}
+
+.bold {
+    font-weight: 600;
+}
+
