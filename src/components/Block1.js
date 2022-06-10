@@ -23,7 +23,7 @@ const Block1 = () => {
                     </p>
                 </div>
                 <div className='forty'>
-                    <img src={logo} alt='logo'></img>
+                    <img className='photo-B1' src={logo} alt='competitie'></img>
                 </div>
             </div>
         </div>

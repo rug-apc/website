@@ -5,9 +5,9 @@ import Block3 from './components/Block3.js';
 import Block4 from './components/Block4.js';
 import Footer from './components/Footer.js';
 
-import './style/large.css';
-import './style/medium.css';
 import './style/small.css';
+import './style/medium.css';
+import './style/large.css';
 
 function App() {
   return (

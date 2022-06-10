@@ -6,7 +6,7 @@ const Block4 = () => {
     return (
         <div className="max-width">
             <div className="center">
-                <p className='title-block1'>F.A.Q</p>
+                <p className='title-block1'>F.A.Q.</p>
             </div>
             <div className='flex full max-width '>
 
@@ -23,7 +23,7 @@ const Block4 = () => {
 
                     <p className='text-block1 bold'>3. Who are the lecturers of this course?</p>
                     <p className='size24'> The coordinator of the course is D.R.S. Ramanayake and D. Feitosa will be lecturer. Nontheless,
-                    to some of the lecturs, there will be a guest lecturer, either from RUG or another institution from Netherlands.  </p>
+                    to some of the lecturs, there will be a guest lecturer, either from RUG or another institution from the Netherlands.  </p>
 
                     <p className='text-block1 bold'>4. What is a course-approved contest?</p>
                     <p className='size24'> A contest will be approved by the course, in the case in which the contest is part of the course, 
@@ -31,8 +31,8 @@ const Block4 = () => {
                     the option to consider other online contests, such as the ones from CodeForces or CodeChef. </p>
 
                 </div>
-                <div className='thirty'>
-                    <img src={question} alt='question'></img>
+                <div className='center thirty'>
+                    <img className='photo-B4' src={question} alt='question'></img>
                 </div>
             </div>
         </div>

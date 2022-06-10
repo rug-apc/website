@@ -23,7 +23,9 @@ const Navbar = () => {
       <div className='nav-center'>
         <div className='nav-header'>
           <img src={logo} className='logo' alt='logo' />
+          <div className="center-title">
           <p className="title">Algorithmic Programming Contests</p>
+          </div>
           <button className='nav-toggle' onClick={toggleLinks}>
             <FaBars className="meniu" />
           </button>

@@ -58,7 +58,7 @@ nav {
 
 .nav-toggle {
     font-size: 1.5rem;
-    color: var(--blue);
+    color: var(--white);
     background: transparent;
     border-color: transparent;
     transition: var(--transition);
@@ -66,7 +66,7 @@ nav {
 }
 
 .title {
-    font-size: 28px;
+    font-size: 18px;
     margin-left: 10px;
     font-weight: 600;
     color: var(--white);
@@ -74,12 +74,12 @@ nav {
 }
 
 .nav-toggle:hover {
-    color: var(--red);
+    color: var(--black);
     transform: rotate(90deg);
 }
 
 .logo {
-    height: 70px;
+    height: 60px;
 }
 
 
@@ -91,6 +91,11 @@ nav {
     margin-left: 15px;
     display: block;
     transition: var(--transition);
+}
+
+.meniu {
+    margin-right:10px;
+    font-size:30px;
 }
 
 .links a:hover {
@@ -105,19 +110,37 @@ nav {
 }
 
 .flex {
-    display: flex;
+    display: block;
 }
 
 .forty {
-    width: 40%;
+    width: 100%;
+    text-align: center;
 }
 
 .sixty {
-    width: 60%;
+    width: 100%;
+
+}
+
+.seventy {
+    width:95%;
+    margin-left:12px;
 }
 
 
+.thirty {
+    width:100%;
+}
 
+.photo-B1 {
+    width:100%;
+}
+
+.photo-B4 {
+    width:70%;
+    margin:auto;
+}
 
 
 .box {
@@ -126,9 +149,9 @@ nav {
     border-radius: 10px;
     border-color: var(--black);
     border-style: solid;
-    margin-top: 40px;
-    margin-left: 20px;
-    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 20px;
     margin-right: 20px;
     padding-bottom: 10px;
     box-shadow: 5px 5px 10px #888888;
@@ -181,14 +204,6 @@ nav {
     margin-left:20px;
 }
 
-.seventy {
-    width:65%;
-}
-
-.thirty {
-    width:30%;
-}
-
 .full {
     width:100%;
 }
@@ -197,3 +212,39 @@ nav {
     font-weight: 600;
 }
 
+.center {
+    text-align: center;
+}
+
+.title-block1 {
+    color: var(--red);
+    margin: 5px 10px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.text-block1 {
+    margin: 10px 8px;
+    font-size: 18px;
+}
+
+.footer {
+    margin-top:20px;
+    height: 80px;
+    background-color: var(--red);
+}
+
+.text-footer {
+    color: var(--white);
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 30px;
+}
+
+
+
+@media only screen and (max-width:480px) {
+    .center-title {
+        text-align: center;
+    }   
+}
