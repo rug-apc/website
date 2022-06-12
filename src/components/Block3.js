@@ -38,7 +38,7 @@ const Block3 = () => {
                                 <br></br>
                                 <br></br>
                                 In the end, when completing the form, try to add all the relevant experience that you
-                                have for each section. Be aware, there are only 30 available spots in the course.
+                                have for each section. Be aware, there are only 20 available spots in the course.
                                 <div className='center'>
                                     <button className='button'><a href='https://forms.gle/wqYZVimQqW9LnH1c9' target="_blank" >Register</a></button>
                                 </div>
