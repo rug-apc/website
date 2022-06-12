@@ -81,7 +81,7 @@
 
     .links a:hover {
         background: transparent;
-        color: var(--red);
+        color: var(--black);
         transition: var(--transition);
     }
 
