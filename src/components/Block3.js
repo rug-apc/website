@@ -32,13 +32,12 @@ const Block3 = () => {
                         </div>
                         <div>
                             <p className='description-info block'>
-                                Before registering, please read all the information displayed on the webiste
-                                and on Ocasys. Moreover, if you still have questions about the course, ask one of
-                                the people responsible for the course.
+                                Please read all the information displayed on the website and on Ocasys prior to registration. If you still
+                                have questions, please send an email to the course email address.
                                 <br></br>
                                 <br></br>
-                                In the end, when completing the form, try to add all the relevant experience that you
-                                have for each section. Be aware, there are only 20 available spots in the course.
+                                Note that there is a cap of 20 students so this course is only accessible to students who have been selected.
+                                For this reason, please mention all relevant experience when completing the registration form.
                                 <div className='center'>
                                     <button className='button'><a href='https://forms.gle/wqYZVimQqW9LnH1c9' target="_blank" >Register</a></button>
                                 </div>
@@ -52,7 +51,10 @@ const Block3 = () => {
                         <div>
                             <div className='block description-info' >
                                 <p>
-                                   This is the link to the Ocasys page of the course Algorithmic Programming Contests.
+                                    This is the link to the Ocasys page of the course Algorithmic Programming Contests.
+                                    <br></br>
+                                    <br></br>
+                                    Make sure to select the academic year 2022/23 when viewing this course on Ocasys.
                                 </p>
                                 <div className='center'>
                                     <button className='button'><a href='https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS045-05' target="_blank" >Ocasys</a></button>
