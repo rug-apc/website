@@ -18,7 +18,7 @@ const Block3 = () => {
                         <div className='block'>
                             <p className='description-info'>
                                 <ul className='list'>
-                                    <li> Email adress of the course: programming_committee@svcover.nl</li>
+                                    <li> Email adress of the course: apc@rug.nl</li>
                                     <li> Discord: <a className='red' href="https://discord.gg/JfzxyBHPsH" target="_blank">link</a></li>
                                     <li> D.R.S. (Revantha) Ramanayake: d.r.s.ramanayake@rug.nl</li>
                                     <li id="contact"> D. (Daniel) Feitosa: d.feitosa@rug.nl </li>
