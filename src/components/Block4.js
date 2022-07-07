@@ -35,6 +35,9 @@ const Block4 = () => {
                     <p className='size24'>Yes, although a primary target is 2nd year students from the BSc Computing science. Also note that there is 
                     a cap of 20 students.
                     </p>
+                    <p className='text-block1 bold'>6. Can this course be added to my student record?</p>
+                    <p className='size24'>Yes!
+                    </p>
 
                 </div>
                 <div className='center thirty'>
