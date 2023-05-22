@@ -8,11 +8,11 @@ const Block1 = () => {
             <div className='center flex'>
                 <p className='title-block1 b1'>Course description</p>
                 <p className='warning'>
-                    Registrations received by 21 July 2022 will be given full consideration although registration may
+                    Registrations received by 21 July 2023 will be given full consideration although registration may
                     be kept open beyond this date.
                 </p>
             </div>
-            <div className='flex '>
+            <div className='flex'>
                 <div className='sixty'>
                     <p className='text-block1'>
                         The Algorithmic Programming Contests course is a 5 ECTS extracurricular course

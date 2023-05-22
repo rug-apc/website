@@ -12,10 +12,8 @@ const Block4 = () => {
 
                 <div className='seventy'>
                     <p className='text-block1 bold'>1. How to pass this course?</p>
-                    <p className='size24'> This is a PASS or FAIL course. In order to pass, you need to attend at 80%
-                        of the lectures, 80% of the labs and 4 course-approved contests with at least 2 problems solved in each (at
-                        least 2 of the contests must be individual contests). The homework is optional and does not count
-                        towards passing or failling the course. </p>
+                    <p className='size24'> 	
+                    The final grade that is given in this course is PASS or FAIL. A student is deemed to PASS the course provided by (i) attendance &gt;= 70% in lectures and computer labs, (ii) active participation in course assignments, (iii) Participation in four course-approved contests with at least two problems solved in each (at least two of the contests must be individual contests). </p>
 
                     <p className='text-block1 bold'>2. Can I take this course as part of the minor/bachelor?</p>
                     <p className='size24'> No. This is an extracurricular course and so the credits gained do not count towards
@@ -32,8 +30,7 @@ const Block4 = () => {
                         be provided in due course.
                     </p>
                     <p className='text-block1 bold'>5. Is this course open to all students?</p>
-                    <p className='size24'>Yes, although a primary target is 2nd year students from the BSc Computing science. Also note that there is 
-                    a cap of 20 students.
+                    <p className='size24'>Yes, although a primary target is 2nd year students. Also note that there is a cap of 20 students.
                     </p>
                     <p className='text-block1 bold'>6. Can this course be added to my student record?</p>
                     <p className='size24'>Yes!

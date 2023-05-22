@@ -6,7 +6,7 @@ const Block2 = () => {
         <div className='center max auto max-width' >
 
             <div>
-                <p className='title-block1'>Structure of the course 2022/23</p>
+                <p className='title-block1'>Structure of the course 2023/24</p>
             </div>
 
             <div>
@@ -20,8 +20,7 @@ const Block2 = () => {
                                 <ul className='list'>
                                     <li> Lectures: 3-4</li>
                                     <li> Labs: 4</li>
-                                    <li> Homework: 2 (optional)</li>
-                                    <li>  Team contests: 3 (BAPC preliminary, BAPC final, Open contest)</li>
+                                    <li> Team contests: 3 (BAPC preliminary, BAPC final, Open contest)</li>
                                 </ul>
                             </p>
                         </div>
@@ -35,8 +34,7 @@ const Block2 = () => {
                                 <ul className='list'>
                                     <li> Lectures: 2</li>
                                     <li> Labs: 2</li>
-                                    <li> Homework: 1 (optional)</li>
-                                    <li> Team contests: 1 (NWERC)</li>
+                                    <li> Team contests: 1 (Open contest, NWERC)</li>
                                     <li> Individual contests: 1 (Open contest)</li>
                                 </ul>
                             </p>
@@ -51,7 +49,6 @@ const Block2 = () => {
                                 <ul className='list'>
                                     <li> Lectures: 2</li>
                                     <li> Labs: 2</li>
-                                    <li> Homework: 1 (optional)</li>
                                     <li> Team contests: 0</li>
                                     <li> Individual contest: 2 (Open contests)</li>
                                 </ul>

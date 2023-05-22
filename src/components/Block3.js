@@ -39,7 +39,7 @@ const Block3 = () => {
                                 Note that there is a cap of 20 students so this course is only accessible to students who have been selected.
                                 For this reason, please mention all relevant experience when completing the registration form. (Deadline: 21 July)
                                 <div className='center'>
-                                    <button className='button'><a href='https://forms.gle/wqYZVimQqW9LnH1c9' target="_blank" >Register</a></button>
+                                    <button className='button'><a href='https://forms.gle/9ZLgFQ3LYt5vht8e6' target="_blank" >Register</a></button>
                                 </div>
                             </p>
                         </div>
@@ -54,10 +54,10 @@ const Block3 = () => {
                                     This is the link to the Ocasys page of the course Algorithmic Programming Contests.
                                     <br></br>
                                     <br></br>
-                                    Make sure to select the academic year 2022/23 when viewing this course on Ocasys.
+                                    Make sure to select the academic year 2023/24 when viewing this course on Ocasys.
                                 </p>
                                 <div className='center'>
-                                    <button className='button'><a href='https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS045-05' target="_blank" >Ocasys</a></button>
+                                    <button className='button'><a href='https://ocasys.rug.nl/2023-2024/catalog/course/WBCS045-05' target="_blank" >Ocasys</a></button>
                                 </div>
 
                             </div>
