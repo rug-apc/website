@@ -30,7 +30,7 @@ const Block4 = () => {
                         be provided in due course.
                     </p>
                     <p className='text-block1 bold'>5. Is this course open to all students?</p>
-                    <p className='size24'>Yes, although a primary target is 2nd year students. Also note that there is a cap of 20 students.
+                    <p className='size24'>Yes, although a primary target is 2nd year students. Also note that there is a cap of 30 students.
                     </p>
                     <p className='text-block1 bold'>6. Can this course be added to my student record?</p>
                     <p className='size24'>Yes!
