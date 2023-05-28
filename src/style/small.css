@@ -230,7 +230,9 @@ nav {
 }
 
 .text-block1 {
-    margin: 10px 8px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    text-align: center;
     font-size: 18px;
 }
 
@@ -284,8 +286,9 @@ nav {
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
   }
 
-.list {
+.list1 {
     display: block;
+    text-decoration: none;
   }
 
 @media only screen and (max-width:480px) {
