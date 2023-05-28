@@ -6,7 +6,7 @@ const Block2 = () => {
         <div className='center max auto max-width' >
 
             <div>
-                <p className='title-block1'>Structure of the course 2023/24</p>
+                <p className='title-block1'>Tentative structure of the course</p>
             </div>
 
             <div>

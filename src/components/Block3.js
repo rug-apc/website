@@ -18,8 +18,8 @@ const Block3 = () => {
                         <div className='block'>
                             <p className='description-info'>
                                 <ul className='list'>
-                                    <li> Email adress of the course: apc@rug.nl</li>
-                                    <li> Discord: <a className='red' href="https://discord.gg/JfzxyBHPsH" target="_blank">link</a></li>
+                                    <li> Email address of the course: apc@rug.nl</li>
+                                     {/*  <li> Discord: <a className='red' href="https://discord.gg/JfzxyBHPsH" target="_blank" rel="noreferrer">link</a></li>  */}
                                     <li> D.R.S. (Revantha) Ramanayake: d.r.s.ramanayake@rug.nl</li>
                                     <li id="contact"> D. (Daniel) Feitosa: d.feitosa@rug.nl </li>
                                 </ul>
@@ -39,7 +39,7 @@ const Block3 = () => {
                                 Note that there is a cap of 30 students so this course is only accessible to students who have been selected.
                                 For this reason, please mention all relevant experience when completing the registration form. (Deadline: 21 July)
                                 <div className='center'>
-                                    <button className='button'><a href='https://forms.gle/9ZLgFQ3LYt5vht8e6' target="_blank" >Register</a></button>
+                                    <button className='button'><a href='https://forms.gle/9ZLgFQ3LYt5vht8e6' target="_blank" rel="noreferrer">Register</a></button>
                                 </div>
                             </p>
                         </div>
@@ -57,7 +57,7 @@ const Block3 = () => {
                                     Make sure to select the academic year 2023/24 when viewing this course on Ocasys.
                                 </p>
                                 <div className='center'>
-                                    <button className='button'><a href='https://ocasys.rug.nl/2023-2024/catalog/course/WBCS045-05' target="_blank" >Ocasys</a></button>
+                                    <button className='button'><a href='https://ocasys.rug.nl/2023-2024/catalog/course/WBCS045-05' target="_blank" rel="noreferrer">Ocasys</a></button>
                                 </div>
 
                             </div>

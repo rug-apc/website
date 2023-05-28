@@ -217,6 +217,11 @@ nav {
     text-align: center;
 }
 
+.center1 {
+    display: flex;
+    justify-content: center;
+}
+
 .title-block1 {
     color: var(--red);
     margin: 5px 10px;
@@ -256,6 +261,32 @@ nav {
     padding:7px;
 }
 
+.results-list {
+    display: block;
+    justify-content: start;
+    text-align: start;
+}
+
+.table {
+    margin-right:50px;
+    margin-left:50px;
+}
+
+.table-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: center;
+}
+
+.gold-text {
+    color: gold;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  }
+
+.list {
+    display: block;
+  }
 
 @media only screen and (max-width:480px) {
     .center-title {
