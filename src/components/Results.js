@@ -8,7 +8,7 @@ export default function Results() {
       </div>
       <div className="center1 table-container">
         <div className="table">
-          <p className="text-block1 bold">BAPC 2021</p>
+          <p className="text-block1 bold center">BAPC 2021</p>
           <ul className="size24 ">
             <li className="list1">#43. RUG5</li>
             <li className="list1">#47. RUG1</li>
@@ -18,7 +18,7 @@ export default function Results() {
           </ul>
         </div>
         <div className="table">
-          <p className="text-block1 bold">BAPC 2022</p>
+          <p className="text-block1 bold center">BAPC 2022</p>
           <ul className="size24 ">
             <li className="list1 bold bronze-text">
               #12. Balloon Addicts, Passionate Coders[bronze medal]
@@ -32,7 +32,7 @@ export default function Results() {
         </div>
         <div className="center1 table-container">
         <div className="table">
-          <p className="text-block1 bold">NWERC 2021</p>
+          <p className="text-block1 bold center">NWERC 2021</p>
           <ul className="size24 ">
             <li className="list1">#82. N-RUG2</li>
             <li className="list1">#125. N-RUG1</li>
@@ -40,7 +40,7 @@ export default function Results() {
         </div>
 
         <div className="table">
-          <p className="text-block1 bold">NWERC 2022</p>
+          <p className="text-block1 bold center">NWERC 2022</p>
           <ul className="size24 ">
             <li className="list1">#86. The Pool Party</li>
             <li className="list1">#88. Balloon Addicts, Passionate Coders</li>
@@ -51,7 +51,7 @@ export default function Results() {
         </div>
         <div className="center1 table-container">
         <div className="table">
-          <p className="text-block1 bold gold-text">NKP/BAPC Winners</p>
+          <p className="text-block1 bold gold-text center">NKP/BAPC Winners</p>
           <ul className="size24">
             <li className="list1">1992. TBD (shared with University of Amsterdam)</li>
             <li className="list1">1993. TBD (shared with University of Amsterdam)</li>

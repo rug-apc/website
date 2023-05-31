@@ -14,7 +14,7 @@ const Block1 = () => {
             </div>
             <div className='flex'>
                 <div className='sixty'>
-                    <p className='text-block1'>
+                    <p className='text-block1 small-margin'>
                         The Algorithmic Programming Contests course is a 5 ECTS extracurricular course
                         providing students from the University of Groningen with an introduction to the
                         world of programming contests through a mix of (guest) lectures, labs, and participation
