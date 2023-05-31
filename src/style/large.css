@@ -117,14 +117,15 @@
 
     .footer {
         margin-top:20px;
-        height: 80px;
+        height: 60px;
         background-color: var(--red);
     }
 
     .text-footer {
         color: var(--white);
-        font-size: 24px;
-        padding-top: 30px;
+        font-size: 20px;
+        padding-top: 22px;
+        font-weight: 100;
     }
 
     .warning {

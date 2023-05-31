@@ -20,8 +20,8 @@ export default function Results() {
         <div className="table">
           <p className="text-block1 bold">BAPC 2022</p>
           <ul className="size24 ">
-            <li className="list1">
-              #12. Balloon Addicts, Passionate Coders
+            <li className="list1 bold bronze-text">
+              #12. Balloon Addicts, Passionate Coders[bronze medal]
             </li>
             <li className="list1">#22. Rodina</li>
             <li className="list1">#27. The Pool Party</li>
@@ -51,10 +51,10 @@ export default function Results() {
         </div>
         <div className="center1 table-container">
         <div className="table">
-          <p className="text-block1 bold gold-text">NKP/BAPC winners</p>
+          <p className="text-block1 bold gold-text">NKP/BAPC Winners</p>
           <ul className="size24">
-            <li className="list1">1992. TBD (+UVA)</li>
-            <li className="list1">1993. TBD (+UVA)</li>
+            <li className="list1">1992. TBD (shared with University of Amsterdam)</li>
+            <li className="list1">1993. TBD (shared with University of Amsterdam)</li>
             <li className="list1">1995. m38c</li>
             <li className="list1">1997. *scratch*</li>
             <li className="list1">2000. Bug Fiction</li>

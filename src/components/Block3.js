@@ -18,10 +18,9 @@ const Block3 = () => {
                         <div className='block'>
                             <p className='description-info'>
                                 <ul className='list'>
-                                    <li> Email address of the course: apc@rug.nl</li>
-                                     {/*  <li> Discord: <a className='red' href="https://discord.gg/JfzxyBHPsH" target="_blank" rel="noreferrer">link</a></li>  */}
-                                    <li> D.R.S. (Revantha) Ramanayake: d.r.s.ramanayake@rug.nl</li>
-                                    <li id="contact"> D. (Daniel) Feitosa: d.feitosa@rug.nl </li>
+                                    <li>Email address of the course: apc@rug.nl</li>
+                                    <li> Course co-ordinator: Revantha Ramanayake (d.r.s.ramanayake@rug.nl)</li>
+                                    <li id="contact"> Lecturer: Daniel Feitosa (d.feitosa@rug.nl) </li>
                                 </ul>
                             </p>
                         </div>
@@ -51,7 +50,7 @@ const Block3 = () => {
                         <div>
                             <div className='block description-info' >
                                 <p>
-                                    This is the link to the Ocasys page of the course Algorithmic Programming Contests.
+                                    Link to the Ocasys page containing up-to-date information on the course.
                                     <br></br>
                                     <br></br>
                                     Make sure to select the academic year 2023/24 when viewing this course on Ocasys.

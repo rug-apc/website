@@ -20,7 +20,7 @@ const Block2 = () => {
                                 <ul className='list'>
                                     <li> Lectures: 3-4</li>
                                     <li> Labs: 4</li>
-                                    <li> Team contests: 3 (BAPC preliminary, BAPC final, Open contest)</li>
+                                    <li> Team contests: 3 (BAPC preliminary, BAPC final, Internal contest)</li>
                                 </ul>
                             </p>
                         </div>
@@ -34,8 +34,8 @@ const Block2 = () => {
                                 <ul className='list'>
                                     <li> Lectures: 2</li>
                                     <li> Labs: 2</li>
-                                    <li> Team contests: 1 (Open contest, NWERC)</li>
-                                    <li> Individual contests: 1 (Open contest)</li>
+                                    <li> Team contests: 1 (Internal contest, NWERC)</li>
+                                    <li> Individual contests: 1 (Internal contest)</li>
                                 </ul>
                             </p>
                         </div>
@@ -50,9 +50,8 @@ const Block2 = () => {
                                     <li> Lectures: 2</li>
                                     <li> Labs: 2</li>
                                     <li> Team contests: 0</li>
-                                    <li> Individual contest: 2 (Open contests)</li>
+                                    <li> Individual contest: 2 (Internal contests)</li>
                                 </ul>
-
                             </div>
                         </div>
                     </div>

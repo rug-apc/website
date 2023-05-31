@@ -49,7 +49,7 @@ const Block4 = () => {
           <p className="text-block1 bold">
             6. What is BAPC 2023?
           </p>
-          <p className="size24"> This is the 2023 edition of the algorithmic programming contest involving university teams from Belgium, the Netherlands, and Luxembourg (BeNeLux). The tentative date of the contest is the 28th of October. Selection for the BAPC 2023 is via the BAPC 2023 Preliminary (tentative date:  23rd of September). Students in the APC course are expected to participate in the BAPC Preliminary, and BAPC 2023, if their team is selected. </p>
+          <p className="size24"> This is the 2023 edition of the algorithmic programming contest involving university teams of three persons from Belgium, the Netherlands, and Luxembourg (BeNeLux). The tentative date for the contest is the 28th of October 2023. Selection for the BAPC 2023 is via the BAPC 2023 Preliminary (tentative date: 23rd of September). Students in the APC course are expected to participate in the BAPC Preliminary, and BAPC 2023 (if their team is selected), so please reserve these dates. </p>
           <p className="text-block1 bold">
             7. What is a course-approved external contest?
           </p>

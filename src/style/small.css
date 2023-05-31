@@ -232,7 +232,6 @@ nav {
 .text-block1 {
     margin-top:10px;
     margin-bottom: 10px;
-    text-align: center;
     font-size: 18px;
 }
 
@@ -285,6 +284,11 @@ nav {
     color: gold;
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
   }
+
+.bronze-text {
+    color: #cd7f32;
+    font-weight: 600;
+}
 
 .list1 {
     display: block;
