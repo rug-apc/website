@@ -18,6 +18,15 @@ export default function Results() {
           </ul>
         </div>
         <div className="table">
+          <p className="text-block1 bold center">NWERC 2021</p>
+          <ul className="size24 ">
+            <li className="list1">#82. N-RUG2</li>
+            <li className="list1">#125. N-RUG1</li>
+          </ul>
+        </div>
+        </div>
+        <div className="center1 table-container">
+        <div className="table">
           <p className="text-block1 bold center">BAPC 2022</p>
           <ul className="size24 ">
             <li className="list1 bold bronze-text">
@@ -29,16 +38,6 @@ export default function Results() {
             <li className="list1">#40. while (true) height--;</li>
           </ul>
         </div>
-        </div>
-        <div className="center1 table-container">
-        <div className="table">
-          <p className="text-block1 bold center">NWERC 2021</p>
-          <ul className="size24 ">
-            <li className="list1">#82. N-RUG2</li>
-            <li className="list1">#125. N-RUG1</li>
-          </ul>
-        </div>
-
         <div className="table">
           <p className="text-block1 bold center">NWERC 2022</p>
           <ul className="size24 ">
