@@ -18,7 +18,7 @@ const Block1 = () => {
                         The Algorithmic Programming Contests course is a 5 ECTS extracurricular course
                         providing students from the University of Groningen with an introduction to the
                         world of programming contests through a mix of (guest) lectures, labs, and participation
-                        in individual and team contests.
+                        in individual and team contests. This course was introduced in 2022-2023.
                         <br></br>
                         <br></br>
                         The lectures will cover theory, algorithms, and various aspects of the contests. Some of
