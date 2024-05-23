@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccb67f36.css",
+    "main.js": "/static/js/main.2edfecc1.js",
+    "static/media/question.png": "/static/media/question.76e1fa50c8796b7f1631.png",
+    "static/media/competition.png": "/static/media/competition.4bb326b6bfc8aa127550.png",
+    "static/media/RugRed.gif": "/static/media/RugRed.66b9f0b1e9b6c2ea1a8f.gif",
+    "index.html": "/index.html",
+    "main.ccb67f36.css.map": "/static/css/main.ccb67f36.css.map",
+    "main.2edfecc1.js.map": "/static/js/main.2edfecc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb67f36.css",
+    "static/js/main.2edfecc1.js"
+  ]
+}
