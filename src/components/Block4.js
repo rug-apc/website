@@ -15,8 +15,8 @@ const Block4 = () => {
             student is deemed to PASS the course provided by (i) attendance
             &gt;= 70% in lectures and computer labs, (ii) active participation
             in course assignments, (iii) participation in four course-approved
-            contests with at least two problems solved in each (at least two of
-            the contests must be individual contests).{" "}
+            contests with at least three problems solved in each (at least two of
+            the contests must be individual contests).
           </p>
           <p className="text-block1 bold">
             2. Can I take this course as part of the minor/bachelor?
@@ -31,7 +31,7 @@ const Block4 = () => {
             3. Who are the lecturers of this course?
           </p>
           <p className="size24">
-            The coordinator of the course is D.R.S. Ramanayake and D. Feitosa
+            The coordinator of the course is D.R.S. Ramanayake and I. Bliznets
             will be lecturer. There will also be guest lecturers from within and
             outside of RUG.
           </p>
@@ -47,9 +47,9 @@ const Block4 = () => {
           </p>
           <p className="size24">Yes!</p>
           <p className="text-block1 bold">
-            6. What is BAPC 2023?
+            6. What is BAPC 2024?
           </p>
-          <p className="size24"> This is the 2023 edition of the algorithmic programming contest involving university teams of three persons from Belgium, the Netherlands, and Luxembourg (BeNeLux). The tentative date for the contest is the 28th October 2023. Selection for the BAPC 2023 is via the BAPC 2023 Preliminary (tentative date: 23rd September). Students in the APC course are expected to participate in the BAPC Preliminary, and BAPC 2023 (if their team is selected), so please reserve these dates. </p>
+          <p className="size24"> This is the 2024 edition of the algorithmic programming contest involving university teams of three persons from Belgium, the Netherlands, and Luxembourg (BeNeLux). The tentative date for the contest is the 26th of October 2024 and it will hosted by Groningen. Selection for the BAPC 2024 is via the BAPC Preliminary (tentative date: 21st September). Students in the APC course are expected to participate in the BAPC Preliminary, and BAPC 2024 (if their team is selected), so please reserve these dates. </p>
           <p className="text-block1 bold">
             7. What is a course-approved external contest?
           </p>

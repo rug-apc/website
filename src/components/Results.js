@@ -30,7 +30,7 @@ export default function Results() {
           <p className="text-block1 bold center">BAPC 2022</p>
           <ul className="size24 ">
             <li className="list1 bold bronze-text">
-              #12. Balloon Addicts, Passionate Coders[bronze medal]
+              #12. Balloon Addicts, Passionate Coders (bronze medal)
             </li>
             <li className="list1">#22. Rodina</li>
             <li className="list1">#27. The Pool Party</li>
@@ -48,6 +48,28 @@ export default function Results() {
           </ul>
         </div>
         </div>
+
+        <div className="center1 table-container">
+        <div className="table">
+          <p className="text-block1 bold center">BAPC 2023</p>
+          <ul className="size24 ">
+            <li className="list1">#25. LLaMA Prophets</li>
+            <li className="list1">#28. Rodina</li>
+            <li className="list1">#30. Balloon Addicts Passionate Coders</li>
+            <li className="list1">#31. The Pool Party</li>
+            <li className="list1">#38. National team of Switzerland</li>
+          </ul>
+        </div>
+        <div className="table">
+          <p className="text-block1 bold center">NWERC 2023</p>
+          <ul className="size24 ">
+            <li className="list1">#58. Rodina</li>
+            <li className="list1">#80. LLaMA Prophets</li>
+            <li className="list1">#97. Balloon Addicts Passionate Coders</li>
+          </ul>
+        </div>
+        </div>
+
         <div className="center1 table-container">
         <div className="table">
           <p className="text-block1 bold gold-text center">NKP/BAPC Winners</p>

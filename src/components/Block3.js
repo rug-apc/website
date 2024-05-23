@@ -6,7 +6,7 @@ const Block3 = () => {
         <div className='center max auto max-width' >
 
             <div>
-                <p className='title-block1'>Registration</p>
+                <p className='title-block1' id="contact">Registration</p>
             </div>
 
             <div>
@@ -20,7 +20,7 @@ const Block3 = () => {
                                 <ul className='list'>
                                     <li>Email address of the course: apc@rug.nl</li>
                                     <li> Course co-ordinator: Revantha Ramanayake (d.r.s.ramanayake@rug.nl)</li>
-                                    <li id="contact"> Lecturer: Daniel Feitosa (d.feitosa@rug.nl) </li>
+                                    <li > Lecturer: Ivan Bliznets PhD (i.bliznets@rug.nl) </li>
                                 </ul>
                             </p>
                         </div>
@@ -38,7 +38,7 @@ const Block3 = () => {
                                 Note that there is a cap of 30 students so this course is only accessible to students who have been selected.
                                 For this reason, please mention all relevant experience when completing the registration form. (Deadline: 21 July)
                                 <div className='center'>
-                                    <button className='button'><a href='https://forms.gle/9ZLgFQ3LYt5vht8e6' target="_blank" rel="noreferrer">Register</a></button>
+                                    <button className='button'><a href='https://forms.gle/WWbDu3ne61Su3FNJA' target="_blank" rel="noreferrer">Register</a></button>
                                 </div>
                             </p>
                         </div>
@@ -53,10 +53,10 @@ const Block3 = () => {
                                     Link to the Ocasys page containing up-to-date information on the course.
                                     <br></br>
                                     <br></br>
-                                    Make sure to select the academic year 2023/24 when viewing this course on Ocasys.
+                                    Make sure to select the academic year 2024/25 when viewing this course on Ocasys.
                                 </p>
                                 <div className='center'>
-                                    <button className='button'><a href='https://ocasys.rug.nl/2023-2024/catalog/course/WBCS045-05' target="_blank" rel="noreferrer">Ocasys</a></button>
+                                    <button className='button'><a href='https://ocasys.rug.nl/2024-2025/catalog/course/WBCS045-05' target="_blank" rel="noreferrer">Ocasys</a></button>
                                 </div>
 
                             </div>

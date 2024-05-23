@@ -5,7 +5,7 @@ const Footer = () => {
 
     return (
         <div className='footer center'>
-            <p className='text-footer'>Copyright © Algorithmic Programming Contests 2023</p>
+            <p className='text-footer'>Copyright © Algorithmic Programming Contests 2022-2024</p>
         </div>
     );
 };

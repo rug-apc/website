@@ -6,7 +6,7 @@ const Block2 = () => {
         <div className='center max auto max-width' >
 
             <div>
-                <p className='title-block1'>Tentative structure of the course</p>
+                <p className='title-block1' >Tentative structure of the course</p>
             </div>
 
             <div>
@@ -20,7 +20,7 @@ const Block2 = () => {
                                 <ul className='list'>
                                     <li> Lectures: 3-4</li>
                                     <li> Labs: 4</li>
-                                    <li> Team contests: 3 (BAPC preliminary, BAPC final, Internal contest)</li>
+                                    <li> Team contests: 3 (BAPC preliminary, BAPC 2024, Internal contest)</li>
                                 </ul>
                             </p>
                         </div>
