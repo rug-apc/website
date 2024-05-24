@@ -12,7 +12,7 @@ import './style/large.css';
 
 function App() {
   return (
-    <div>
+    <div> 
      <Navbar></Navbar>
      <Block1></Block1>
      <Block2></Block2>
