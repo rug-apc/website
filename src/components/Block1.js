@@ -6,7 +6,7 @@ const Block1 = () => {
     return (
         <div className="max-width">
             <div className='center flex'>
-                <p className='title-block1 b1'>Course description</p>
+                <p className='title-block1 b1'>Course description 2024-2025</p>
                 <p className='warning'>
                     Registrations received by 21 July 2024 will be given full consideration although registration may
                     be kept open beyond this date.

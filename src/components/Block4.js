@@ -51,7 +51,15 @@ const Block4 = () => {
           </p>
           <p className="size24"> This is the 2024 edition of the algorithmic programming contest involving university teams of three persons from Belgium, the Netherlands, and Luxembourg (BeNeLux). The tentative date for the contest is the 26th of October 2024 and it will hosted by Groningen. Selection for the BAPC 2024 is via the BAPC Preliminary (tentative date: 21st September). Students in the APC course are expected to participate in the BAPC Preliminary, and BAPC 2024 (if their team is selected), so please reserve these dates. </p>
           <p className="text-block1 bold">
-            7. What is a course-approved external contest?
+            7. What is GAPC and FCG?
+          </p>
+          <p className="size24">
+          The Fully Connected Graph (FCG) is a Cover committee dedicated to organizing programming contest events at our university. Since 2022, FCG has hosted the Groningen Algorithmic Programming Contest (GAPC) annually, along with various other programming-related events. GAPC is an algorithmic programming competition for teams of up to three university students and is held during Block 2b. Both FCG and the Algorithmic Programming Contests course share the goal of fostering an active programming contests community at the University of Groningen.
+          </p>
+          
+          
+          <p className="text-block1 bold">
+            8. What is a course-approved external contest?
           </p>
           <p className="size24">
             Any contest that is pre-approved by the course coordinator as eligible. Such contests may include those organised by the ICPC, such as BAPC preliminary, BAPC finals and NWERC (Northwestern Europe Regional Contest) or organised by the Fully Connected Graph committee. We will also consider the option of pre-approving selected other online contests e.g. from CodeForces or CodeChef. Specific details will be provided in due course.

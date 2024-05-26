@@ -33,7 +33,7 @@ const Block2 = () => {
                             <p className='description-info block'>
                                 <ul className='list'>
                                     <li> Lectures: 2</li>
-                                    <li> Labs: 2</li>
+                                    <li> Labs: 3</li>
                                     <li> Team contests: 1 (Internal contest, NWERC)</li>
                                     <li> Individual contests: 1 (Internal contest)</li>
                                 </ul>
@@ -48,7 +48,7 @@ const Block2 = () => {
                             <div className='block description-info' >
                                 <ul className='list'>
                                     <li> Lectures: 2</li>
-                                    <li> Labs: 2</li>
+                                    <li> Labs: 1</li>
                                     <li> Team contests: 0</li>
                                     <li> Individual contest: 2 (Internal contests)</li>
                                 </ul>

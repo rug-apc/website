@@ -19,8 +19,8 @@ const Block3 = () => {
                             <p className='description-info'>
                                 <ul className='list'>
                                     <li>Email address of the course: apc@rug.nl</li>
-                                    <li> Course co-ordinator: Revantha Ramanayake (d.r.s.ramanayake@rug.nl)</li>
-                                    <li > Lecturer: Ivan Bliznets PhD (i.bliznets@rug.nl) </li>
+                                    <li> Course co-ordinator: Dr Revantha Ramanayake (d.r.s.ramanayake@rug.nl)</li>
+                                    <li > Lecturer: Dr Ivan Bliznets (i.bliznets@rug.nl) </li>
                                 </ul>
                             </p>
                         </div>
