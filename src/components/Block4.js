@@ -47,9 +47,9 @@ const Block4 = () => {
           </p>
           <p className="size24">Yes!</p>
           <p className="text-block1 bold">
-            6. What is BAPC 2024?
+            6. What is BAPC?
           </p>
-          <p className="size24"> This is the 2024 edition of the algorithmic programming contest involving university teams of three persons from Belgium, the Netherlands, and Luxembourg (BeNeLux). The tentative date for the contest is the 26th of October 2024 and it will hosted by Groningen. Selection for the BAPC 2024 is via the BAPC Preliminary (tentative date: 21st September). Students in the APC course are expected to participate in the BAPC Preliminary, and BAPC 2024 (if their team is selected), so please reserve these dates. </p>
+          <p className="size24"> This is an algorithmic programming contest involving university teams of three persons from Belgium, the Netherlands, and Luxembourg (BeNeLux). The tentative date for this year's iteration of the contest is the 25th of October 2024 and it will hosted by TU Delft. Selection for the BAPC is via the BAPC Preliminary [TODO](tentative date: 21st September). Students in the APC course are expected to participate in the BAPC Preliminary, and BAPC (if their team is selected), so please reserve these dates. </p>
           <p className="text-block1 bold">
             7. What is GAPC and FCG?
           </p>

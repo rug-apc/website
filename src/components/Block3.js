@@ -36,7 +36,7 @@ const Block3 = () => {
                                 <br></br>
                                 <br></br>
                                 Note that there is a cap of 30 students so this course is only accessible to students who have been selected.
-                                For this reason, please mention all relevant experience when completing the registration form. (Deadline: 21 July)
+                                For this reason, please mention all relevant experience when completing the registration form. [TODO](Deadline: 21 July)
                                 <div className='center'>
                                     <button className='button'><a href='https://forms.gle/WWbDu3ne61Su3FNJA' target="_blank" rel="noreferrer">Register</a></button>
                                 </div>
@@ -53,10 +53,10 @@ const Block3 = () => {
                                     Link to the Ocasys page containing up-to-date information on the course.
                                     <br></br>
                                     <br></br>
-                                    Make sure to select the academic year 2024/25 when viewing this course on Ocasys.
+                                    Make sure to select the academic year 2025/26 when viewing this course on Ocasys.
                                 </p>
                                 <div className='center'>
-                                    <button className='button'><a href='https://ocasys.rug.nl/2024-2025/catalog/course/WBCS045-05' target="_blank" rel="noreferrer">Ocasys</a></button>
+                                    <button className='button'><a href='https://ocasys.rug.nl/2025-2026/catalog/course/WBCS045-05' target="_blank" rel="noreferrer">Ocasys</a></button>
                                 </div>
 
                             </div>

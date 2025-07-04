@@ -20,7 +20,7 @@ const Block2 = () => {
                                 <ul className='list'>
                                     <li> Lectures: 3-4</li>
                                     <li> Labs: 4</li>
-                                    <li> Team contests: 3 (BAPC preliminary, BAPC 2024, Internal contest)</li>
+                                    <li> Team contests: 3 (BAPC preliminary, BAPC, Internal contest)</li>
                                 </ul>
                             </p>
                         </div>

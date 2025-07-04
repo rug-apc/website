@@ -1,14 +1,12 @@
-import React from 'react';
 import logo from '../photo/competition.png';
-
 
 const Block1 = () => {
     return (
         <div className="max-width">
             <div className='center flex'>
-                <p className='title-block1 b1'>Course description 2024-2025</p>
+                <p className='title-block1 b1'>Course description 2025-2026</p>
                 <p className='warning'>
-                    Registrations received by 6 September 2024 will be given full consideration although registration may
+                    Registrations received by [TODO]6 September 2024 will be given full consideration although registration may
                     be kept open beyond this date.
                 </p>
             </div>
@@ -32,7 +30,7 @@ const Block1 = () => {
                     </p>
                 </div>
                 <div className='forty'>
-                    <img className='photo-B1' src={logo} alt='competitie'></img>
+                    <img className='photo-B1' src={logo} alt='Art by Ilusiku Studio'></img>
                 </div>
             </div>
         </div>
