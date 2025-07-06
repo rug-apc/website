@@ -38,7 +38,7 @@ const Block3 = () => {
                                 Note that there is a cap of 30 students so this course is only accessible to students who have been selected.
                                 For this reason, please mention all relevant experience when completing the registration form. (Deadline: 22 July)
                                 <div className='center'>
-                                    <button className='button'><a href='https://forms.gle/WWbDu3ne61Su3FNJA' target="_blank" rel="noreferrer">Register</a></button>
+                                    <button className='button'><a href='https://forms.gle/UHdoKkm1b6wzbHsb8' target="_blank" rel="noreferrer">Register</a></button>
                                 </div>
                             </p>
                         </div>

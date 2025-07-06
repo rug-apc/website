@@ -1,7 +1,7 @@
 export const links = [
   {
     id: 1,
-    url: 'https://forms.gle/52cFntAPzeDXx7YFA',
+    url: 'https://forms.gle/UHdoKkm1b6wzbHsb8',
     text: 'Registration',
   },
   {

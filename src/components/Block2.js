@@ -34,7 +34,7 @@ const Block2 = () => {
                                 <ul className='list'>
                                     <li> Lectures: 2</li>
                                     <li> Labs: 3</li>
-                                    <li> Team contests: 1 (Internal contest, NWERC)</li>
+                                    <li> Team contests: 2 (Internal contest, NWERC)</li>
                                     <li> Individual contests: 1 (Internal contest)</li>
                                 </ul>
                             </p>
