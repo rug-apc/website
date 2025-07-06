@@ -4,10 +4,9 @@ const Block1 = () => {
     return (
         <div className="max-width">
             <div className='center flex'>
-                <p className='title-block1 b1'>Course description 2025-2026</p>
+                <p className='title-block1 b1'>Course description</p>
                 <p className='warning'>
-                    Registrations received by [TODO]6 September 2024 will be given full consideration although registration may
-                    be kept open beyond this date.
+                    Please register as soon as possible; enrolments submitted by 22 July 2025 will receive full consideration although it may be possible to register up to the end of the first week of block 1a.
                 </p>
             </div>
             <div className='flex'>

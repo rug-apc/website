@@ -1,4 +1,3 @@
-import React from "react";
 import question from "../photo/question.png";
 
 const Block4 = () => {
@@ -9,7 +8,7 @@ const Block4 = () => {
       </div>
       <div className="flex full max-width ">
         <div className="seventy">
-          <p className="text-block1 bold">1. How to pass this course?</p>
+          <p className="text-block1 bold">How do I pass this course?</p>
           <p className="size24">
             The final grade that is given in this course is PASS or FAIL. A
             student is deemed to PASS the course provided by (i) attendance
@@ -19,7 +18,7 @@ const Block4 = () => {
             the contests must be individual contests).
           </p>
           <p className="text-block1 bold">
-            2. Can I take this course as part of the minor/bachelor?
+            Can I take this course as part of the minor/bachelor?
           </p>
           <p className="size24">
             {" "}
@@ -28,7 +27,7 @@ const Block4 = () => {
             Bachelor programme.{" "}
           </p>
           <p className="text-block1 bold">
-            3. Who are the lecturers of this course?
+            Who are the lecturers of this course?
           </p>
           <p className="size24">
             The coordinator of the course is D.R.S. Ramanayake and I. Bliznets
@@ -36,22 +35,22 @@ const Block4 = () => {
             outside of RUG.
           </p>
           <p className="text-block1 bold">
-            4. Is this course open to all students?
+            Is this course open to all students?
           </p>
           <p className="size24">
             Yes, although a primary target is 2nd year students. Also note that
             there is a cap of 30 students.
           </p>
           <p className="text-block1 bold">
-            5. Can this course be added to my student record?
+            Can this course be added to my student record?
           </p>
           <p className="size24">Yes!</p>
           <p className="text-block1 bold">
-            6. What is BAPC?
+            What is BAPC?
           </p>
-          <p className="size24"> This is an algorithmic programming contest involving university teams of three persons from Belgium, the Netherlands, and Luxembourg (BeNeLux). The tentative date for this year's iteration of the contest is the 25th of October 2024 and it will hosted by TU Delft. Selection for the BAPC is via the BAPC Preliminary [TODO](tentative date: 21st September). Students in the APC course are expected to participate in the BAPC Preliminary, and BAPC (if their team is selected), so please reserve these dates. </p>
+          <p className="size24"> This is an algorithmic programming contest involving university teams of three persons from Belgium, the Netherlands, and Luxembourg (BeNeLux). The tentative date for BAPC 2025 is October 25 and it will hosted by TU Delft. Selection for the BAPC is via the BAPC Preliminary (tentative date: September 20). Students in the APC course are expected to participate in the BAPC Preliminary, and BAPC (if their team is selected), so please reserve these dates. </p>
           <p className="text-block1 bold">
-            7. What is GAPC and FCG?
+            What is GAPC and FCG?
           </p>
           <p className="size24">
           The Fully Connected Graph (FCG) is a Cover committee dedicated to organizing programming contest events at our university. Since 2022, FCG has hosted the Groningen Algorithmic Programming Contest (GAPC) annually, along with various other programming-related events. GAPC is an algorithmic programming competition for teams of up to three university students and is held during Block 2b. Both FCG and the Algorithmic Programming Contests course share the goal of fostering an active programming contests community at the University of Groningen.
@@ -59,7 +58,7 @@ const Block4 = () => {
           
           
           <p className="text-block1 bold">
-            8. What is a course-approved external contest?
+            What is a course-approved external contest?
           </p>
           <p className="size24">
             Any contest that is pre-approved by the course coordinator as eligible. Such contests may include those organised by the ICPC, such as BAPC preliminary, BAPC finals and NWERC (Northwestern Europe Regional Contest) or organised by the Fully Connected Graph committee. We will also consider the option of pre-approving selected other online contests e.g. from CodeForces or CodeChef. Specific details will be provided in due course.

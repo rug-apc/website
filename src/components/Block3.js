@@ -36,7 +36,7 @@ const Block3 = () => {
                                 <br></br>
                                 <br></br>
                                 Note that there is a cap of 30 students so this course is only accessible to students who have been selected.
-                                For this reason, please mention all relevant experience when completing the registration form. [TODO](Deadline: 21 July)
+                                For this reason, please mention all relevant experience when completing the registration form. (Deadline: 22 July)
                                 <div className='center'>
                                     <button className='button'><a href='https://forms.gle/WWbDu3ne61Su3FNJA' target="_blank" rel="noreferrer">Register</a></button>
                                 </div>
