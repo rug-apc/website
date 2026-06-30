@@ -95,7 +95,9 @@ export default function Results() {
         <div className="table">
           <p className="text-block1 bold center">BAPC 2025</p>
           <ul className="size24 ">
-            <li className="list1">#11. Triply Linked List</li>
+            <li className="list1 bold bronze-text">
+              #11. Triply Linked List (bronze medal)
+            </li>
             <li className="list1">#22. BrainLimitExceeded</li>
             <li className="list1">#31. man idk don't put a name</li>
             <li className="list1">#40. 3Guys1Segfault</li>
