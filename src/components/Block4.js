@@ -14,8 +14,8 @@ const Block4 = () => {
             student is deemed to PASS the course provided by (i) attendance
             &gt;= 70% in lectures and computer labs, (ii) active participation
             in course assignments, (iii) participation in four course-approved
-            contests with at least three problems solved in each (at least two of
-            the contests must be individual contests).
+            contests with at least three problems solved in each (at least two
+            of the contests must be individual contests).
           </p>
           <p className="text-block1 bold">
             Can I take this course as part of the minor/bachelor?
@@ -45,25 +45,42 @@ const Block4 = () => {
             Can this course be added to my student record?
           </p>
           <p className="size24">Yes!</p>
-          <p className="text-block1 bold">
-            What is BAPC?
-          </p>
-          <p className="size24"> This is an algorithmic programming contest involving university teams of three persons from Belgium, the Netherlands, and Luxembourg (BeNeLux). The tentative date for BAPC 2025 is October 25 and it will hosted by TU Delft. Selection for the BAPC is via the BAPC Preliminary (tentative date: September 20). Students in the APC course are expected to participate in the BAPC Preliminary, and BAPC (if their team is selected), so please reserve these dates. </p>
-          <p className="text-block1 bold">
-            What is GAPC and FCG?
-          </p>
+          <p className="text-block1 bold">What is BAPC?</p>
           <p className="size24">
-          The Fully Connected Graph (FCG) is a Cover committee dedicated to organizing programming contest events at our university. Since 2022, FCG has hosted the Groningen Algorithmic Programming Contest (GAPC) annually, along with various other programming-related events. GAPC is an algorithmic programming competition for teams of up to three university students and is held during Block 2b. Both FCG and the Algorithmic Programming Contests course share the goal of fostering an active programming contests community at the University of Groningen.
+            {" "}
+            This is an algorithmic programming contest involving university
+            teams of three persons from Belgium, the Netherlands, and Luxembourg
+            (BeNeLux). The BAPC Preliminaries and BAPC team contests take place
+            on a Saturday in September and October, respectively (exact date not
+            available at time of writing). Students in the APC course are
+            expected to participate in the BAPC Preliminary, and BAPC (if their
+            team is selected), so please reserve these dates.{" "}
           </p>
-          
-          
+          <p className="text-block1 bold">What is GAPC and FCG?</p>
+          <p className="size24">
+            The Fully Connected Graph (FCG) is a Cover committee dedicated to
+            organizing programming contest events at our university. Since 2022,
+            FCG has hosted the Groningen Algorithmic Programming Contest (GAPC)
+            annually, along with various other programming-related events. GAPC
+            is an algorithmic programming competition for teams of up to three
+            university students and is held during Block 2b. Both FCG and the
+            Algorithmic Programming Contests course share the goal of fostering
+            an active programming contests community at the University of
+            Groningen.
+          </p>
+
           <p className="text-block1 bold">
             What is a course-approved external contest?
           </p>
           <p className="size24">
-            Any contest that is pre-approved by the course coordinator as eligible. Such contests may include those organised by the ICPC, such as BAPC preliminary, BAPC finals and NWERC (Northwestern Europe Regional Contest) or organised by the Fully Connected Graph committee. We will also consider the option of pre-approving selected other online contests e.g. from CodeForces or CodeChef. Specific details will be provided in due course.
+            Any contest that is pre-approved by the course coordinator as
+            eligible. Such contests may include those organised by the ICPC,
+            such as BAPC preliminary, BAPC finals and NWERC (Northwestern Europe
+            Regional Contest) or organised by the Fully Connected Graph
+            committee. We will also consider the option of pre-approving
+            selected other online contests e.g. from CodeForces or CodeChef.
+            Specific details will be provided in due course.
           </p>
-       
         </div>
         <div className="center thirty">
           <img className="photo-B4" src={question} alt="question"></img>
