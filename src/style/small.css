@@ -1,306 +1,306 @@
-
 :root {
-    --transition: all 0.20s linear;
-    --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-    --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-    --white: #FFFFFF;
-    --black: #090C08;
-    --red: #CC0000;
-    --font-family: 'Open Sans Semi-Bold', sans-serif;
+  --transition: all 0.2s linear;
+  --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  --white: #ffffff;
+  --black: #090c08;
+  --red: #cc0000;
+  --font-family: "Open Sans Semi-Bold", sans-serif;
 }
 
 #root {
-    width: 100vw;
-    height: 100vh;
+  width: 100vw;
+  height: 100vh;
 }
 
 *,
 ::after,
 ::before {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: var(--font-family);
-    background: var(--white);
-    overflow-x: hidden;
+  font-family: var(--font-family);
+  background: var(--white);
+  overflow-x: hidden;
 }
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 /*  end global classes */
 
-
 /* start Navbar.js style*/
 
 nav {
-    background: var(--red);
-    box-shadow: var(--light-shadow);
+  background: var(--red);
+  box-shadow: var(--light-shadow);
 }
 
 .cursor {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .nav-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0rem;
 }
 
 .nav-toggle {
-    font-size: 1.5rem;
-    color: var(--white);
-    background: transparent;
-    border-color: transparent;
-    transition: var(--transition);
-    cursor: pointer;
+  font-size: 1.5rem;
+  color: var(--white);
+  background: transparent;
+  border-color: transparent;
+  transition: var(--transition);
+  cursor: pointer;
 }
 
 .title {
-    font-size: 18px;
-    margin-left: 10px;
-    font-weight: 600;
-    color: var(--white);
-    font-family: var(--font-family);
+  font-size: 18px;
+  margin-left: 10px;
+  font-weight: 600;
+  color: var(--white);
+  font-family: var(--font-family);
 }
 
 .nav-toggle:hover {
-    color: var(--black);
-    transform: rotate(90deg);
+  color: var(--black);
+  transform: rotate(90deg);
 }
 
 .logo {
-    height: 60px;
+  height: 60px;
 }
 
-
 .links a {
-    color: var(--white);
-    font-weight: 500;
-    font-size: 24px;
-    text-transform: capitalize;
-    margin-left: 15px;
-    display: block;
-    transition: var(--transition);
+  color: var(--white);
+  font-weight: 500;
+  font-size: 24px;
+  text-transform: capitalize;
+  margin-left: 15px;
+  display: block;
+  transition: var(--transition);
 }
 
 .meniu {
-    margin-right:10px;
-    font-size:30px;
+  margin-right: 10px;
+  font-size: 30px;
 }
 
 .links a:hover {
-    background: var(--clr-primary-8);
-    color: var(--black);
+  background: var(--clr-primary-8);
+  color: var(--black);
 }
 
 .links-container {
-    height: 0;
-    overflow: hidden;
-    transition: var(--transition);
+  height: 0;
+  overflow: hidden;
+  transition: var(--transition);
 }
 
 .flex {
-    display: block;
+  display: block;
 }
 
 .forty {
-    width: 100%;
-    text-align: center;
+  width: 100%;
+  text-align: center;
 }
 
 .sixty {
-    width: 100%;
-
+  width: 100%;
 }
 
 .seventy {
-    width:95%;
-    margin-left:12px;
+  width: 95%;
+  margin-left: 12px;
 }
 
-
 .thirty {
-    width:100%;
+  width: 100%;
 }
 
 .photo-B1 {
-    width:100%;
+  width: 100%;
 }
 
 .photo-B4 {
-    width:70%;
-    margin:auto;
+  width: 70%;
+  margin: auto;
 }
 
 .box {
-    width: calc(100% - 30px);
-    border-width: 4px;
-    border-radius: 10px;
-    border-color: var(--black);
-    border-style: solid;
-    margin-top: 20px;
-    margin-left: 15px;
-    margin-bottom: 20px;
-    margin-right: 20px;
-    padding-bottom: 10px;
-    box-shadow: 5px 5px 10px #888888;
+  width: calc(100% - 30px);
+  border-width: 4px;
+  border-radius: 10px;
+  border-color: var(--black);
+  border-style: solid;
+  margin-top: 20px;
+  margin-left: 15px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  padding-bottom: 10px;
+  box-shadow: 5px 5px 10px #888888;
 }
 
 .title-info {
-    font-size: 30px;
-    font-weight: 700;
-    margin-top: 10px;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 10px;
 }
 
 .description-info {
-    font-size: 18px;
-    
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 15px;
+  font-size: 18px;
+
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 15px;
 }
 
 .button {
-    cursor: pointer;
-    width: 120px;
-    height: 40px;
-    margin-top: 20px;
-    font-size: 20px;
-    border-radius: 10px;
-    background-color: var(--red);
+  cursor: pointer;
+  width: 120px;
+  height: 40px;
+  margin-top: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: var(--red);
 }
 
 .button a {
-    color: var(--white);
+  color: var(--white);
 }
 
 .button:hover {
-    transition: 0.5s;
-    background-color: var(--black);
+  transition: 0.5s;
+  background-color: var(--black);
 }
 
 .block {
-    display: block;
-    text-align: left;
+  display: block;
 }
 
 .red {
-    color:var(--red);
+  color: var(--red);
 }
 
 .list {
-    list-style-type: circle;
-    margin-left:20px;
+  list-style-type: circle;
+  margin-left: 20px;
 }
 
 .full {
-    width:100%;
+  width: 100%;
 }
 
 .bold {
-    font-weight: 600;
+  font-weight: 600;
 }
 
 .center {
-    text-align: center;
+  text-align: center;
 }
 
 .center1 {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .title-block1 {
-    color: var(--red);
-    margin: 5px 10px;
-    font-size: 22px;
-    font-weight: 600;
+  color: var(--red);
+  margin: 5px 10px;
+  font-size: 22px;
+  font-weight: 600;
 }
 
 .text-block1 {
-    margin-top:10px;
-    margin-bottom: 10px;
-    font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
 }
 
 .footer {
-    margin-top:20px;
-    height: 80px;
-    background-color: var(--red);
+  margin-top: 20px;
+  height: 80px;
+  background-color: var(--red);
+  display: flex;
+  gap: 1rem;
 }
 
 .text-footer {
-    color: var(--white);
-    font-size: 16px;
-    font-weight: 600;
-    padding-top: 30px;
+  color: var(--white);
+  font-size: 16px;
+  font-weight: 600;
+  padding-top: 30px;
 }
 
 .warning {
-    border-radius: 5px;
-    border-width: 4px;;
-    border-style: solid;
-    border-color: var(--red);
-    margin-top: 10px;
-    width:calc(100% - 30px);
-    margin-left: 15px;
-    font-family: var(--font-family);
-    font-weight: 600;
-    font-size: 18px;
-    padding:7px;
+  border-radius: 5px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: var(--red);
+  margin-top: 10px;
+  width: calc(100% - 30px);
+  margin-left: 15px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 18px;
+  padding: 7px;
 }
 
 .results-list {
-    display: block;
-    justify-content: start;
-    text-align: start;
+  display: block;
+  justify-content: start;
+  text-align: start;
 }
 
 .table {
-    margin-right:50px;
-    margin-left:50px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 .table-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  justify-content: center;
 }
 
 .gold-text {
-    color: gold;
-    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-  }
+  color: gold;
+  text-shadow:
+    1px 0 0 #000,
+    0 -1px 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000;
+}
 
 .bronze-text {
-    color: #cd7f32;
-    font-weight: 600;
+  color: #cd7f32;
+  font-weight: 600;
 }
 
 .list1 {
-    display: block;
-    text-decoration: none;
+  display: block;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 480px) {
+  .center-title {
+    text-align: center;
   }
 
-@media only screen and (max-width:480px) {
-    .center-title {
-        text-align: center;
-    }   
-
-    .small-margin {
-        margin-left:10px;
-        margin-right:10px;
-    }
+  .small-margin {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 }

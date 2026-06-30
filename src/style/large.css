@@ -15,7 +15,6 @@
 
   .flex {
     display: flex;
-    gap: 1rem;
   }
 
   .forty {
@@ -119,6 +118,8 @@
     margin-top: 20px;
     height: 60px;
     background-color: var(--red);
+    display: flex;
+    gap: 1rem;
   }
 
   .text-footer {

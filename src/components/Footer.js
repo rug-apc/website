@@ -2,7 +2,7 @@ const Footer = () => {
   const buildTime = process.env.REACT_APP_BUILD_TIME;
 
   return (
-    <div className="footer center flex">
+    <div className="footer center">
       <p className="text-footer">
         Copyright © Algorithmic Programming Contests 2022-2026
       </p>
