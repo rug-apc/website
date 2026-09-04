@@ -20,13 +20,13 @@ const Block2 = () => {
                     Lectures:
                     <ul>
                       <li>
-                        <strong>07/09/26</strong> -- Introduction
+                        <strong>09/09/26</strong> -- Introduction
                       </li>
                       <li>
                         <strong>11/09/26</strong> -- Data Structures
                       </li>
                       <li>
-                        <strong>23/09/26</strong> -- Greedy
+                        <strong>21/09/26</strong> -- Greedy
                       </li>
                     </ul>
                   </li>
@@ -39,10 +39,10 @@ const Block2 = () => {
                         <strong>16/09/26</strong> -- Data Structures
                       </li>
                       <li>
-                        <strong>30/09/26</strong> -- Greedy
+                        <strong>28/09/26</strong> -- Greedy
                       </li>
                       <li>
-                        <strong>07/10/26</strong> -- TCR Usage
+                        <strong>05/10/26</strong> -- TCR Usage
                       </li>
                     </ul>
                   </li>
@@ -56,7 +56,7 @@ const Block2 = () => {
                         <strong>12/10/26</strong> -- Internal Contest
                       </li>
                       <li>
-                        <strong>21/10/26</strong> -- BAPC
+                        <strong>31/10/26</strong> -- BAPC
                       </li>
                     </ul>
                   </li>
@@ -79,10 +79,10 @@ const Block2 = () => {
                         <strong>11/11/26</strong> -- TBD
                       </li>
                       <li>
-                        <strong>02/12/26</strong> -- TBD
+                        <strong>30/11/26</strong> -- TBD
                       </li>
                       <li>
-                        <strong>16/12/26</strong> -- TBD
+                        <strong>14/12/26</strong> -- TBD
                       </li>
                     </ul>
                   </li>
@@ -94,7 +94,7 @@ const Block2 = () => {
                         <strong>18/11/26</strong> -- TDB
                       </li>
                       <li>
-                        <strong>04/12/26</strong> -- TBD
+                        <strong>02/12/26</strong> -- TBD
                       </li>
                       <li>
                         <strong>18/12/26</strong> -- TBD
